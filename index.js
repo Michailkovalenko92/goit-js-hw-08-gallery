@@ -1,4 +1,4 @@
-import gallery from './js/galleryLayouts';
+import gallery from './gallery-items.js';
 const galleryRef = document.querySelector('.js-gallery');
 const btnClose = document.querySelector('[data-action="close-lightbox"]');
 const overlay = document.querySelector('.lightbox__overlay');
